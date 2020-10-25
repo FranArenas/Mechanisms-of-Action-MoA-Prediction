@@ -11,7 +11,7 @@ In the past, scientists derived drugs from natural products or were inspired by 
 - Split Neuronal Network (3 NN concatenated)
 
 ## What am I currently working on?
-- Improve SVM model for run in GPU
+- Improve the SVM model to support GPU training
 - Hypertune and improve both NN models (PCA, extended feature selection, manipulating data, etc.)
 - Add a new model (probably another NN using a new arquitecture and maybe pytorch)
 - Use ensemble learning with the best models
