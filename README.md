@@ -15,3 +15,5 @@ In the past, scientists derived drugs from natural products or were inspired by 
 - Hypertune and improve both NN models (PCA, extended feature selection, manipulating data, etc.)
 - Add a new model (probably another NN using a new arquitecture and maybe pytorch)
 - Use ensemble learning with the best models
+
+![gif](images/AnguishedMemorableArcticduck-size_restricted.gif)
