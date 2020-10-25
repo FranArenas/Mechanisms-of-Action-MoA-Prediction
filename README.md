@@ -1,5 +1,6 @@
 # Mechanisms-of-Action-MoA-Prediction
 Competition based on classifying drugs based on their biological activity. This competition is a multilabel classification task.
+https://www.kaggle.com/c/lish-moa
 
 ## What is the Mechanism of Action (MoA) of a drug? And why is it important?
 
