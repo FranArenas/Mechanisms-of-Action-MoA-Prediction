@@ -13,7 +13,7 @@ In the past, scientists derived drugs from natural products or were inspired by 
 
 ## What am I currently working on?
 - Improve the SVM model to support GPU training
-- Hypertune and improve both NN models (PCA, extended feature selection, manipulating data, etc.)
+- Hypertune and improve both NN models (PCA, extended feature selection, data manipulation, etc.)
 - Add a new model (probably another NN using a new arquitecture and maybe pytorch)
 - Use ensemble learning with the best models
 
